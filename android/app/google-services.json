@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088502375624",
+    "project_id": "fcm-navigation-demo",
+    "storage_bucket": "fcm-navigation-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088502375624:android:94c1c7edaae4fa3589b1fd",
+        "android_client_info": {
+          "package_name": "com.example.fcm_notification_navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIBv2OxX2PzsnWAMpCpFkcCIw6sh1z6Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
